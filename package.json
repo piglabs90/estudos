@@ -1,0 +1,19 @@
+{
+  "name": "cinema-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "cheerio": "~0.22.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "express": "~4.13.4",
+    "express-promise": "^0.4.0",
+    "iconv-lite": "~0.4.15",
+    "nodemon": "^1.11.0",
+    "request": "~2.79.0"
+  }
+}
